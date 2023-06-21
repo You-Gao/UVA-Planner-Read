@@ -1,0 +1,510 @@
+APMA 1110
+
+
+Single Variable Calculus II
+
+
+-
+None
+
+
+No
+
+
+4
+
+
+APMA 2120
+
+
+Multivariable Calculus
+
+
+-
+None
+
+
+No
+
+
+4
+
+
+APMA 2130
+
+
+Ordinary Differentl Equations
+
+
+-
+None
+
+
+No
+
+
+4
+
+
+APMA 3100
+
+
+Probability
+
+
+-
+None
+
+
+Yes
+
+
+3
+
+
+BME 2000
+
+
+Biomed Engr Design & Discovery
+
+
+-
+None
+
+
+No
+
+
+3
+
+
+BME 2101
+
+
+Physiology I for Engineers
+
+
+-
+None
+
+
+No
+
+
+3
+
+
+BME 2102
+
+
+Physiology II
+
+
+-
+None
+
+
+No
+
+
+3
+
+
+BME 2104
+
+
+Cell & Molecular for Engineers
+
+
+-
+None
+
+
+No
+
+
+3
+
+
+BME 2220
+
+
+Biomechanics
+
+
+-
+None
+
+
+No
+
+
+3
+
+
+BME 2315
+
+
+Computational BME
+
+
+-
+None
+
+
+No
+
+
+3
+
+
+BME 3080
+
+
+Biomed IDEAS Lab I
+
+
+-
+None
+
+
+No
+
+
+4
+
+
+BME 3090
+
+
+Biomed IDEAS Lab II
+
+
+-
+None
+
+
+No
+
+
+4
+
+
+BME 3240
+
+
+Biotransport
+
+
+-
+None
+
+
+No
+
+
+3
+
+
+BME 3310
+
+
+Biomed Sys Analysis & Design
+
+
+-
+None
+
+
+No
+
+
+3
+
+
+BME 3636
+
+
+Neural Network Models
+
+
+-
+None
+
+
+No
+
+
+3
+
+
+BME 4063
+
+
+Biomed Engr Capstone Design I
+
+
+-
+None
+
+
+No
+
+
+3
+
+
+BME 4064
+
+
+Biomed Engr Capstone Design II
+
+
+-
+None
+
+
+No
+
+
+3
+
+
+BME 4315
+
+
+Systems Bioengineering
+
+
+-
+None
+
+
+No
+
+
+3
+
+
+BME 4350
+
+
+BME Data Science
+
+
+-
+None
+
+
+No
+
+
+3
+
+
+CS 3100
+
+
+Data Structures and Algo 2
+
+
+-
+None
+
+
+Yes
+
+
+3
+
+
+CS 3120
+
+
+Discrete Math and Theory 2
+
+
+-
+None
+
+
+Yes
+
+
+3
+
+
+CS 3130
+
+
+Computer Systems and Org 2
+
+
+-
+None
+
+
+Yes
+
+
+4
+
+
+CS 3140
+
+
+Software Dev Essentials
+
+
+-
+None
+
+
+Yes
+
+
+3
+
+
+CS 3240
+
+
+Advanced Software Development
+
+
+-
+None
+
+
+Yes
+
+
+3
+
+
+CS 4710
+
+
+Artificial Intelligence
+
+
+-
+None
+
+
+Yes
+
+
+3
+
+
+CS 4774
+
+
+Machine Learning
+
+
+-
+None
+
+
+Yes
+
+
+3
+
+
+ENGR 1624
+
+
+Introduction to Engineering
+
+
+-
+None
+
+
+Yes
+
+
+4
+
+
+PHYS 2415
+
+
+Intro Physics 2 for Engineers
+
+
+-
+None
+
+
+Yes
+
+
+3
+
+
+STS 1500
+
+
+Sci Tech & Contemp Issues
+
+
+-
+None
+
+
+No
+
+
+3
+
+
+STS 2620
+
+
+Science & Tech Public Policy
+
+
+-
+None
+
+
+No
+
+
+3
+
+
+STS 4500
+
+
+STS and Engineering Practice
+
+
+-
+None
+
+
+No
+
+
+3
+
+
+STS 4600
+
+
+Engr Ethcs Prof Responsibility
+
+
+-
+None
+
+
+Yes
+
+
+3
